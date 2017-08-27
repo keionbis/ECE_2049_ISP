@@ -1,0 +1,1 @@
+/home/keionbis/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-g++   -g   CMakeFiles/ECE_2049_ISP.dir/src/main.cpp.o  -o ECE_2049_ISP -rdynamic 
